@@ -1,10 +1,9 @@
 # google_search_clone
 
 This is a clone of Google Search, Google Image, and Google Advanced written in HTML and CSS. 
-This assignment is project 0 of CS50’s Web Programming with Python and JavaScript course 
+This assignment is project 0 of CS50’s Web Programming with Python and JavaScript course.
 
 Specification
-Your website must meet the following requirements.
 
    * Pages. Your website should have at least three pages: one for Google Search, one for Google Image Search, and one for Google Advanced Search.
        * On the Google Search page, there should be links in the upper-right of the page to go to Image Search or Advanced Search. On each of the other two pages, there should be a link in the upper-right     to go back to Google Search.
