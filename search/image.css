@@ -1,0 +1,35 @@
+body {
+    font-family: Times New Roman;
+}
+#center {
+    position: absolute;
+    top: 40%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+span {
+    font-size: 6em;
+}
+input {
+    display: block;
+    margin: 30px;
+}
+#submit {
+    width: 50%;
+    margin: auto;
+}
+#corner {
+    border-radius: 25px;
+    border-width: thin;
+    width: 600px;
+    height: 40px;
+    margin: 40px;
+}
+a {
+    position: absolute;
+    top: 0;
+    right:0;
+    margin: 10px;
+    text-align: right;
+}

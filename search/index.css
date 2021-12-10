@@ -1,0 +1,47 @@
+body {
+    font-family: Times New Roman;
+}
+span {
+    font-size: 6em;
+}
+.inline {
+    display: inline;
+    height:40px;
+    font-size: 20px;
+    margin: 5px;
+    padding: 10px;
+    background-color: #F2F2F2;
+    color: #4D4D4D;
+    border:0px;
+}
+#center {
+    position: absolute;
+    top: 40%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+input {
+    display: block;
+}
+#corner {
+    border-radius: 25px;
+    border-width: thin;
+    width: 600px;
+    height: 40px;
+    margin: 40px;
+}
+#imgtag {
+    position: absolute;
+    top:0;
+    right:9%;
+    text-align: right;
+    margin: 10px;
+}
+#advtag {
+    position: absolute;
+    top:0;
+    right:0;
+    text-align: right;
+    margin: 10px;
+}

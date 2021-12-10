@@ -1,0 +1,33 @@
+body {
+    font-family: Times New Roman;
+}
+a {
+    position: absolute;
+    top: 0;
+    right:0;
+    margin: 10px;
+    text-align: right;
+}
+h2 {
+    color: #DB4437;
+}
+.form1 {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.5em;
+}
+.form1 > label {
+    flex: 1;
+}
+.form1 > input {
+    flex: 5;
+}
+.form1 > input, .form1 > button {
+    padding: 0.5em;
+}
+.form1 > button {
+   background: #76A7FA;
+   color: #333333;
+   border: 0;
+   font-weight: bold;
+}
